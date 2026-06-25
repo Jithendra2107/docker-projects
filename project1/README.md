@@ -44,3 +44,6 @@ project1/
 3.Open your browser at:
   ```bash
   http://localhost:5000
+  ```
+## 🖼 Output
+<img width="1533" height="768" alt="Screenshot 2026-06-25 122606" src="https://github.com/user-attachments/assets/fbfaa722-5f42-42ef-aa13-71dc8da6fae0" />
